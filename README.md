@@ -1,5 +1,5 @@
 - Hi, I’m @FeiPetr
-- I’m currently learning programming and game design as a sophomore in university.
+- I graduated UC Santa Cruz 2024.
 - You can reach me at 777spetrova@gmail.com
 
 <!---
